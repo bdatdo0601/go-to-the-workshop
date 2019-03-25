@@ -1,0 +1,1 @@
+# Garage Sale example in Go lang
